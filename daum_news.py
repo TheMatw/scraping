@@ -17,4 +17,5 @@ for list in news:
     title = a.string.strip()
     file.write("제목:" + title + "\n")
 
+
 file.close()
